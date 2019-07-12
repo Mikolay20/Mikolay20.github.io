@@ -1,8 +1,9 @@
 body{
 	padding: 0;
 	margin: 0;
-}
 
+
+}
 /*////////Header*****/
 
 .navbar-nav{
@@ -21,4 +22,96 @@ body{
 	text-align: center;
 	font-size: 20px;
 	margin-left: 140px;
+}
+/*//////Section one/*/
+.text{
+	margin-top: 150px;
+}
+
+.h1{
+	font-size: 45px;
+	margin-bottom: 30px;
+}
+
+.abzac{
+	font-size: 25px;
+	text-align: center;
+}
+
+.button{
+	display: block;
+	width: 350px;
+	margin-top: 40px;
+	border-radius: 20px;
+	border: 1px solid black;
+	padding: 10px;
+	background: #E4E4E4;
+	cursor: pointer;
+	text-align: center;
+	margin-left: 90px
+}
+
+.btn{
+	color: black;
+	font-weight: bold;
+}
+
+.hr{
+	opacity: 0.4;
+	background: #585152;
+	width: 1100px;
+	text-align: center;	
+	margin: 0 auto;
+	margin-top: 50px;
+}
+/*******Section Form*/
+
+.objekt{
+
+	background: #fff;
+	border-radius: 20px;
+	margin-top: 100px;
+	padding: 100px;
+	width: 500px;
+	height: 500px;
+	margin-bottom: 100px;
+}
+.form{
+	background: #F3F2FF;
+}
+form{
+	padding-top: 70px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.form-control{
+	text-align: center;
+	margin-bottom: 50px;
+	border-radius: 10px;
+	padding: 20px;
+}
+
+.btn-info{
+	border-radius: 10px;
+	background: 
+	color: white;
+	padding: 10px;
+	width: 300px;
+	display: block;
+	margin-top: 40px;
+	border-radius: 20px;
+	padding: 10px;
+	background: #E4E4E4;
+	cursor: pointer;
+	text-align: center;
+}
+
+.h5{
+	margin-left: -20px;
+	margin-top: -50px;
+	text-align: center;
+	font-size: 25px;
+	width: 400px;
+	text-align: left;
 }
