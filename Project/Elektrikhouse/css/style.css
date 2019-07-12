@@ -4,6 +4,8 @@ body{
 
 
 }
+
+
 /*////////Header*****/
 
 .navbar-nav{
@@ -67,7 +69,7 @@ body{
 /*******Section Form*/
 
 .objekt{
-
+	border: 1px solid black;
 	background: #fff;
 	border-radius: 20px;
 	margin-top: 100px;
@@ -114,4 +116,62 @@ form{
 	font-size: 25px;
 	width: 400px;
 	text-align: left;
+}
+/*****SECTION SEVICES/*/
+.services{
+	background: #FCFCFF;
+	padding-bottom: 250px;
+}
+
+.h4{
+
+	padding-top: 50px;
+	font-size: 56px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.prowodka{
+	text-align: center;
+	padding-top: 150px;
+}
+
+.services-link{
+	margin-top: 20px;
+	font-size: 30px;
+}
+/*/////FOOTER/**/
+.footer{
+	background: #F3F2FF;
+
+}
+
+.footernav{
+	margin-left: 80px;
+	margin-bottom: 20px;
+	font-size: 20px;
+}
+
+.kontakt{
+	margin: 0 auto;
+	text-align: center;
+}
+
+.myp{
+	margin-right: 25px;
+	margin-top: 50px;
+}
+
+.mailcontakt{
+	margin-right: 80px;
+	padding-top: 25px;
+	font-size: 20px;
+}
+.mail{
+	text-align: center;
+}
+
+.infocontakt{
+	margin-right: 100px;
+	font-size: 26px;
 }
