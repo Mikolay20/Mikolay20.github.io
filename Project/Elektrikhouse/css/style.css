@@ -1,0 +1,263 @@
+body{
+	margin: 0;
+	padding: 0;
+
+}
+
+header{
+	background: #F1EFF8;
+	padding-top: 10px;
+	font-weight: bold;
+
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+
+nav{
+	padding-top: 10px;
+}
+
+.logo a{
+	font-size: 25px;
+	padding-left: 15px;
+}
+
+.navigation{
+	font-size: 20px;
+}
+.list{
+	display: flex;
+
+}
+.list li{
+	list-style-type: none;
+	margin-right: 59px;
+
+}
+
+.list li:hover{
+	list-style-type: none;
+	margin-right: 59px;
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+}
+
+.list li a{
+	text-decoration: none;
+
+}
+
+.phone{
+	margin-right: 60px;
+}
+
+.phone a{
+	text-decoration: none;
+	font-size: 16px;
+}
+
+.phone a:hover{
+	text-decoration: underline;
+}
+.text{
+	text-align: center;
+	justify-content: center;
+}
+.text h1{
+	font-size: 50px;
+	margin-bottom: 0;
+	border-top: 0;
+	text-align: center;
+}
+
+.text p{
+	font-size: 15px;
+	width: 400px;
+	text-align: center;
+}
+ 
+.buton{
+	padding-top: 10px;
+	padding-left: 22px;
+}
+.btn {
+	border-radius: 20px;
+	width: 280px;
+	padding: 30px 27px;
+	display: block;
+	text-align: center;
+	margin: 0 auto: ;
+	font-size: 20px;
+	text-transform: uppercase;
+	background: #01FFFF;
+}
+
+
+.roww{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: -15px;
+}
+
+.row{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: -15px;
+}
+
+.photo{
+	margin-left: 60px;
+}
+
+.buton{
+	margin-left: 18px;
+	margin-top: 29px;
+}
+
+.hr{
+	padding-top: 20px;
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	border-bottom: 1px solid black;
+	width: 1200px;
+	opacity: 0.4;
+}
+
+
+.ower{
+	border-radius: 20px;
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	margin-top: 90px;
+	margin-bottom: 150px;
+	width:  436px;
+	height: 436px;
+	border: 1px solid black;
+	background: #F3F2FF;
+}
+form input{
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+}
+
+form{
+	margin-top:120px;
+}
+
+.name{
+	height: 36px;
+	width: 300px;
+	border-radius: 10px;
+	text-align: center;
+	font-size: 18px;
+	margin-bottom: 30px;
+}
+
+.tel{
+	height: 36px;
+	width: 300px;
+	border-radius: 10px;
+	text-align: center;
+	font-size: 18px;
+	margin-bottom: 30px;
+}
+
+.submit{
+	cursor: pointer;
+    border-radius: 20px;
+	width: 312px;
+	padding: 10px 10px;
+	display: block;
+	text-align: center;
+	margin: 0 auto: ;
+	font-size: 20px;
+	text-transform: uppercase;
+	background: #01FFFF;
+}
+
+.hrtu{
+	padding-top: -910px;
+	margin: 0 auto;
+	border-bottom: 1px solid black;
+	width: 1200px;
+	opacity: 0.4;
+	margin-top: -109px;
+}
+
+.myservis{
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+	padding-top: 50px;
+}
+
+.about{
+	text-align: left;
+	font-weight: bolder;
+	font-size: 18px;
+	padding-bottom: 10px;
+}
+
+.rowmy{
+	display: flex;
+	justify-content: space-between;
+	margin: 0 auto;
+}
+
+
+
+footer{
+	display: flex;
+	justify-content: space-between;
+	text-align: center;
+	margin: 0 auto;
+	background: #F1EFF8;
+	padding-top: 10px;
+	font-weight: bold;
+
+	
+}
+
+.listfooter{
+	display: flex;
+	text-align: center;
+	list-style-type: none;
+}
+
+.listfooter li{
+	padding-left: 20px;
+}
+
+.lokal{
+	padding-top: 9px;
+	margin-right: 180px;
+}
+
+.kontakt{
+	display: flex;
+	justify-content: space-between;
+	text-align: center;
+	margin-right: 70px;
+}
+
+.mail{
+	margin-right: 40px;
+	padding-top: 10px;
+}
+
+.wy{
+	margin-bottom: 150px;
+}
+
+.textform{
+	text-align: center;
+	margin-top: -50px;
+	padding-bottom: 40px;
+}
