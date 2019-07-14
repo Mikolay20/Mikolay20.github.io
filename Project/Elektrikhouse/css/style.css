@@ -8,6 +8,7 @@ body{
 
 /*////////Header*****/
 
+
 .navbar-nav{
 	font-size: 20px;
 }
@@ -26,13 +27,19 @@ body{
 	margin-left: 140px;
 }
 /*//////Section one/*/
+span{
+	display: block;
+	text-align: center;	
+}
+
 .text{
 	margin-top: 150px;
 }
 
 .h1{
-	font-size: 45px;
+	font-size: 55px;
 	margin-bottom: 30px;
+	text-align: center;
 }
 
 .abzac{
@@ -67,6 +74,7 @@ body{
 	margin-top: 50px;
 }
 /*******Section Form*/
+
 
 .objekt{
 	border: 1px solid black;
